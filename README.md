@@ -1,5 +1,6 @@
 # PRODIGY_CS_05
 NETWORK PACKET ANALYZER
+
 This tool capture and analyze the network packets in a simple way we can call it a sniffer tool. With packet sniffer tool, you can knowthe following:
 
 Source and Destination MAC addresses,
