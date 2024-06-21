@@ -2,19 +2,19 @@
 NETWORK PACKET ANALYZER
 This tool capture and analyze the network packets in a simple way we can call it a sniffer tool. With packet sniffer tool, you can knowthe following:
 
-» Source and Destination MAC addresses
-» VLAN tagging
-» EtherType
-» IP Headers [eg: IPv6, IPv4]
-» Source and Destination IP addresses 
-» Port Number of your destination 
-» Destination port number
-» Service Identifier 
-» Flag Type 
-» Packet Examination
-» MAC address of the sender
-» Protocol Headers
-» Payload data
+Source and Destination MAC addresses,
+VLAN tagging,
+EtherType,
+IP Headers [eg: IPv6, IPv4],
+Source and Destination IP addresses, 
+Port Number of your destination, 
+Destination port number,
+Service Identifier, 
+Flag Type, 
+Packet Examination,
+MAC address of the sender,
+Protocol Headers,
+Payload data
 
 These are some of the attributes we can know and there are many more attributes we can know by using this packet sniffer tool. 
 Example:
